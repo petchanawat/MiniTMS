@@ -1,1 +1,2 @@
-# MiniTMS Project (Mini Transportation Management System Project) is a
+# MiniTMS Project (Mini Transportation Management System Project)
+Sample for
