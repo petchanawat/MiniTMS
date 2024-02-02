@@ -30,6 +30,8 @@ Click switch for submit, then the timestamp will be sent to Airtable's operating
  ![miniTMS5](https://github.com/petchanawat/MiniTMS/assets/158483894/f876ccf1-2fc9-41e9-a1b1-8166095465e7)
 
 
+Drivers will do so until the last drop-off point of the day at the end of the day and do so again tomorrow.
+
 
 
 
