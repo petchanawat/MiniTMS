@@ -25,6 +25,9 @@ Click switch for submit, then the timestamp will be sent to Airtable's operating
 ![miniTMS3](https://github.com/petchanawat/MiniTMS/assets/158483894/8402612c-ef8c-4249-945a-c5f1155c1b48)
 
 
+ This image is a confirmation of the update of data that drivers did to the operating database. "updateData.js" is the script for GET data and then PATCH data from the user interface to the operating database.
+
+
 
 
 
