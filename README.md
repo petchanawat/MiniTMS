@@ -15,3 +15,6 @@ This image is the first page of the mobile application for drivers.
 
 
 This image is the second page of the mobile application for choosing the driver's name, password, and date of pick-up and drop-off of goods.
+
+![miniTMS2](https://github.com/petchanawat/MiniTMS/assets/158483894/f9c894e0-946a-4ed9-8d46-8a6ab09a6cf6)
+
