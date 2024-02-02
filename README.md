@@ -20,7 +20,7 @@ This image is the second page of the mobile application for choosing the driver'
 
 
 This image is the main page of the mobile application for showing and interacting with drivers. When they pick up or drop off goods, they have to attach an evidence image of at least three.
-Click switch for submit, then the timestamp will be sent to Airtable's operating database, and the image will be sent to Retool's database list. https://github.com/petchanawat/MiniTMS/blob/main/listData.js is the script for GET data from the operating database; 1 record has to be unpivot to 2 because it has a 2-point pick-up and drop-off.
+Click switch for submit, then the timestamp will be sent to Airtable's operating database, and the image will be sent to Retool's database list. href{[http://my.site.com](https://github.com/petchanawat/MiniTMS/blob/main/listData.js)}{listData.js} is the script for GET data from the operating database; 1 record has to be unpivot to 2 because it has a 2-point pick-up and drop-off.
 
 ![miniTMS3](https://github.com/petchanawat/MiniTMS/assets/158483894/8402612c-ef8c-4249-945a-c5f1155c1b48)
 
